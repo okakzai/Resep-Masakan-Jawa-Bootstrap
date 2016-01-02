@@ -7,7 +7,7 @@ Bootstrap 3.3.6<br />
 Locked Content<br />
 
 PSD<br>
-Zainalabidin: http://freebiesbug.com/psd-freebies/phototime-psd-website-template/
+Zainalabidin: http://www.zainalabidin.me/2015/12/desain-website-resep-masakan-jawa.html
 
 LIVE DEMO <br>
 Home: http://bootstrap.zainalabidin.xyz/resep.masakan.jawa/
